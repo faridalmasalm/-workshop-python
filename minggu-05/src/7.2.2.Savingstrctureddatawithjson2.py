@@ -1,0 +1,1 @@
+x = json.load(f)
